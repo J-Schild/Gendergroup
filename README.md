@@ -13,7 +13,7 @@ In the far future:
 - we will put a discount rate for the job (when she has enough money to pay more for ETF and private insurance and Mix of both) with two branches (one before 10 years and one after 10 years)
 - model analysis tools 
 - visuals ( mcmc_areas() function from the bayesplot library)
-- plot cashflow to see tyüical pofile of pension insurance : negative flow for several decades, later on positive flow
+- plot cashflow to see typical profile of pension insurance : negative flow for several decades, later on positive flow
 - project report markdown
 
 
@@ -22,4 +22,18 @@ In the far future:
 
 ![Uploading grafik.png…]()
 
+
+Decision maker profile
+- 25 year old female
+- married into a farm 
+- in-laws are still the owners of the farm --> no official employment of daughter in-law --> she counts only as a contributing family member in agricultural insurance
+- husband will become owner in approximately 5 years --> she then becomes full member in agricultural insurance 
+- profession: gardener 
+- owns no particular wealth or properties
+
+Farm characteristics:
+- dairy farm
+
+Possiblity of own branch of farm
+- farm shop
 
